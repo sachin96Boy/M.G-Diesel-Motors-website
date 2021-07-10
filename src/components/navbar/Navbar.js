@@ -22,7 +22,7 @@ class Navbar extends Component {
     return (
       <nav className="NavbarItems">
         <h1 className="Navbar-logo">
-          Sachin Supunthaka <AppleIcon style={{marginLeft:0.5}&&{fontSize:24}}/>
+          M.G Diesel Motors <AppleIcon style={{marginLeft:0.5}&&{fontSize:24}}/>
         </h1>
         <div className="menu-icon" onClick={this.handleClick}>
           {this.state.clicked ? <CloseIcon style={{color:'red'}}/> : <MenuIcon style={{color:'white'}}/>}
