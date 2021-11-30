@@ -15,6 +15,12 @@
     transition:all 0.3s ease-out;
     background:#fff;
     color:#d8f3dc;
+    transition: 250ms;
+}
+
+.btn-primary{
+    background-color: var(--primary);
+    
 }
 
 .btn-outline{

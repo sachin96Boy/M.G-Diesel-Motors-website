@@ -10,7 +10,7 @@ export const Navitems=[
         cName:"nav-links",
     },
     {
-        title:"Contact-US",
+        title:"Contactus",
         url:"#",
         cName:"nav-links",
     },

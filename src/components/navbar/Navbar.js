@@ -3,6 +3,7 @@ import Menuitems from "./Menuitems";
 import Button from '../Button'
 
 import "./Navbar.css";
+
 import AppleIcon from "@material-ui/icons/Apple";
 import MenuIcon from "@material-ui/icons/Menu";
 import CloseIcon from "@material-ui/icons/Close";
